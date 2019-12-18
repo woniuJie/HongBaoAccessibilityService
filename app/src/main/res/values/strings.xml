@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">小帮手</string>
+    <string name="get_lucky">领取红包</string>
+    <string name="hongbao">小帮手帮您抢红包</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="go_accessiblity_title">软件需要打开\"无障碍服务\"才能运行，请在随后的设置中选择\"小帮手\"并开启服务。</string>
+    <string name="open_access">小帮手已经在帮你监控微信红包</string>
+    <string name="descriprion">1、本APP不会获取您的任何信息，请放心使用 \n\n2、仅仅适用于微信群聊中的红包进行帮抢（单聊也帮抢的话，有可能你给别人刚发了红包，您自己就给抢了~~） \n\n3、不会影响您的正常聊天，只是突然来红包了，帮您抢一下\n\n4、本APP不会关心已经抢了或者已经被抢完的红包（不做多余处理）\n\n5、此APP如果有bug（或者需要更改的地方），请您联系我\n\n6、使用方法，在设置页面--无障碍--选择小帮手开启无障碍服务。如果您操作成功了，APP里会提示你的 \n\n7、注意事项：需要先打开这个APP，才能帮您抢</string>
+</resources>
